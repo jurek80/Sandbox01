@@ -1,4 +1,4 @@
-package Test1.HW;
+package test.hw;
 
 public class MFC {
     public static void main(String[] args) {

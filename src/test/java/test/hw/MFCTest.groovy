@@ -1,4 +1,4 @@
-package Test1.HW
+package test.hw
 
 class MFCTest extends groovy.util.GroovyTestCase {
 }
